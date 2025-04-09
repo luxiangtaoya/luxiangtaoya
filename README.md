@@ -1,7 +1,5 @@
-# GitHub个人主页README文件（带详细注释）
-
 <!-- 头部欢迎语部分 -->
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm An Zhihe
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm Lu Xiangtao!
 <!-- 动态GIF表情，宽度25像素 -->
 
 <!-- Feedly订阅数动态徽章 -->
@@ -20,15 +18,14 @@
 <td valign="top" width="50%">
 
 <!-- 个人信息列表 -->
-- 🤖 我是一个AI工程师，来自中国深圳  <!-- 当前职业：SRE(站点可靠性工程师) -->
-- 👨‍💻 我的技术栈包括：Python，Pytorch，Java，MySQL，VUE等 <!-- 正在学习的技术栈 -->
-- ✍️ [个人社交网站](https://chegva.com)  <!-- 个人博客链接 -->
-- 💬 Ask me about Anything you want~  <!-- 欢迎提问 -->
-- 📫 个人邮箱: [email](mailto:anzhihe@foxmail.com)  <!-- 联系邮箱 -->
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/) <!-- GitHub关注按钮 -->
-- 🎣 兴趣爱好: AI竞赛、打篮球、跑步、游泳等 <!-- 兴趣爱好 -->
+- 🧑🏻‍🚀 我是一个AI工程师，来自中国深圳  <!-- 当前职业 -->
+- 🏫 本科毕业于**四川大学**，研究生毕业于**北京大学** <!-- 毕业院校 -->
+- 🛠  我的技术栈包括：Python，Pytorch，Java，MySQL，VUE等 <!-- 正在学习的技术栈 -->
+- 👀 [个人社交网站](知乎](https://www.zhihu.com/people/xiao-xue-sheng-o))  <!-- 个人博客链接 -->
+- 💌 个人邮箱: [email](3518651480@qq.com)  <!-- 联系邮箱 -->
+- 🎣 兴趣爱好:🏆️ AI竞赛、🏀打篮球、🏃跑步、🏊‍♀️游泳等 <!-- 兴趣爱好 -->
 
-**「Stay hungry，Stay foolish.」** ❤️  <!-- 座右铭 -->
+**好好学习，天天向上！** ❤️  <!-- 座右铭 -->
 </td>
 
 <!-- 右侧栏：动态图片 -->
@@ -59,11 +56,11 @@
 <td valign="top" width="50%">
 
 #### 🐍 contributions  <!-- 贡献图标题 -->
-![](https://raw.githubusercontent.com/anzhihe/anzhihe/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/luxiangtaoya/luxiangtaoya/output/github-contribution-grid-snake.svg)
 <!-- GitHub贡献日历的蛇形可视化图 -->
 </td>
 
-<!-- 右侧：最新博客文章 -->
+<!-- 右侧：最近忙的事情 -->
 <td valign="top" width="50%">
 
 #### 👉 最近忙的事情  <!-- 事情链接 -->
