@@ -2,15 +2,6 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I'm Lu Xiangtao!
 <!-- 动态GIF表情，宽度25像素 -->
 
-<!-- Feedly订阅数动态徽章 -->
-![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly%20RSS&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%26queryKey%3Dhttps%3A%2F%2Fchegva.com%2Ffeed%2F&logo=feedly)
-<!-- 
-  颜色：2bb24c(绿色)
-  标签：Feedly RSS 
-  数据源：通过API获取订阅数
-  徽章图标：Feedly logo
--->
-
 <!-- 个人信息表格开始 -->
 <table>
 <tr>
@@ -30,7 +21,7 @@
 
 <!-- 右侧栏：动态图片 -->
 <td valign="center" width="100%" height="100%">
-<img src="https://github.com/anzhihe/anzhihe/blob/main/.github/workflows/Le%20Petit%20Prince.gif" width="500" height="300">
+<img src="https://github.com/luxiangtaoya/luxiangtaoya/.github/workflows/xiaowangzi.gif" width="500" height="300">
 <!-- 《小王子》主题GIF动图 -->
 </td>
 </tr>
