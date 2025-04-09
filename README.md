@@ -12,7 +12,7 @@
 - 🧑🏻‍🚀 我是一个AI工程师，来自中国深圳  <!-- 当前职业 -->
 - 🏫 本科毕业于**四川大学**，研究生毕业于**北京大学** <!-- 毕业院校 -->
 - 🛠  我的技术栈包括：Python，Pytorch，Java，MySQL <!-- 正在学习的技术栈 -->
-- 👀 个人社交网站[知乎](https://www.zhihu.com/people/xiao-xue-sheng-o))  <!-- 个人博客链接 -->
+- 👀 个人社交网站[知乎](https://www.zhihu.com/people/xiao-xue-sheng-o)  <!-- 个人博客链接 -->
 - 💌 个人邮箱: [email](3518651480@qq.com)  <!-- 联系邮箱 -->
 - 🎣 兴趣爱好:🏆️ AI竞赛、🏀打篮球、🏃跑步、🏊‍♀️游泳等 <!-- 兴趣爱好 -->
 
@@ -55,6 +55,10 @@
 <td valign="top" width="50%">
 
 #### 👉 最近忙的事情  <!-- 事情链接 -->
+- [数字中国创新大赛](https://www.szzg.gov.cn/2025/cxds/)
+- [SpaCE25中文语义竞赛](https://github.com/PKU-SpaCE/SpaCE2025)
+- [大模型Badcase挑战赛](https://competitions.zhipuai.cn/match)
+- ...
 
 
 
