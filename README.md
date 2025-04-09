@@ -20,13 +20,13 @@
 <td valign="top" width="50%">
 
 <!-- 个人信息列表 -->
-- 🤖 I'm currently a SRE working in Beijing, China.  <!-- 当前职业：SRE(站点可靠性工程师) -->
-- 👨‍💻 I'm currently learning Golang, Python, Devops, Cloud Native, JS & TS、Vue、React，etc... <!-- 正在学习的技术栈 -->
-- ✍️ [MyBlog](https://chegva.com)  <!-- 个人博客链接 -->
+- 🤖 我是一个AI工程师，来自中国深圳  <!-- 当前职业：SRE(站点可靠性工程师) -->
+- 👨‍💻 我的技术栈包括：Python，Pytorch，Java，MySQL，VUE等 <!-- 正在学习的技术栈 -->
+- ✍️ [个人社交网站](https://chegva.com)  <!-- 个人博客链接 -->
 - 💬 Ask me about Anything you want~  <!-- 欢迎提问 -->
-- 📫 Reach me: [email](mailto:anzhihe@foxmail.com)  <!-- 联系邮箱 -->
+- 📫 个人邮箱: [email](mailto:anzhihe@foxmail.com)  <!-- 联系邮箱 -->
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/anzhihe?label=follow%20me&style=social)](https://github.com/anzhihe/) <!-- GitHub关注按钮 -->
-- 🎣 Fun fact: Reading, poetry, watching movies, traveling, exercising, thinking, sunbathing, minimalist <!-- 兴趣爱好 -->
+- 🎣 兴趣爱好: AI竞赛、打篮球、跑步、游泳等 <!-- 兴趣爱好 -->
 
 **「Stay hungry，Stay foolish.」** ❤️  <!-- 座右铭 -->
 </td>
@@ -45,7 +45,7 @@
 🏆 **my github stats:**  <!-- 统计标题 -->
 
 <!-- 统计卡片布局 -->
-|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzhihe&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=luxiangtaoya)|![luxiangtaoya's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxiangtaoya&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 <!-- 
   左侧：GitHub总体统计卡片
@@ -66,14 +66,9 @@
 <!-- 右侧：最新博客文章 -->
 <td valign="top" width="50%">
 
-#### 👉 [Recent Blog](https://chegva.com)  <!-- 博客链接 -->
+#### 👉 最近忙的事情  <!-- 事情链接 -->
 
-{{ range $index, $item := $.Articles }}  <!-- 动态生成博客列表(需要后端支持) -->
-- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
-{{- end}}
-</td>
-</tr>
-</table>
+
 
 <!-- 
   技术说明：
