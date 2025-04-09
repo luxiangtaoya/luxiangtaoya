@@ -21,7 +21,7 @@
 
 <!-- 右侧栏：动态图片 -->
 <td valign="center" width="100%" height="100%">
-<img src="[https://github.com/luxiangtaoya/luxiangtaoya/.github/workflows/xiaowangzi.gif](https://github.com/luxiangtaoya/luxiangtaoya/blob/main/.github/workflows/xiaowangzi.gif)" width="500" height="300">
+<img src="https://github.com/luxiangtaoya/luxiangtaoya/blob/main/.github/workflows/xiaowangzi.gif" width="500" height="300">
 <!-- 《小王子》主题GIF动图 -->
 </td>
 </tr>
