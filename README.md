@@ -29,39 +29,6 @@
 
 <hr/>  <!-- 分隔线 -->
 
-<!-- GitHub统计部分 -->
-🏆 **my github stats:**  <!-- 统计标题 -->
-
-<!-- 统计卡片布局 -->
-|![](https://github-readme-stats.vercel.app/api?username=luxiangtaoya)|![luxiangtaoya's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luxiangtaoya&layout=compact&hide_border=true&langs_count=10)|
-|-|-|
-<!-- 
-  左侧：GitHub总体统计卡片
-  右侧：最常用语言统计卡片(紧凑布局，隐藏边框，显示前10种语言)
--->
-
-<!-- 底部内容表格 -->
-<table>
-<tr>
-<!-- 左侧：贡献日历蛇形图 -->
-<td valign="top" width="50%">
-
-#### 🐍 contributions  <!-- 贡献图标题 -->
-![](https://raw.githubusercontent.com/luxiangtaoya/luxiangtaoya/output/github-contribution-grid-snake.svg)
-<!-- GitHub贡献日历的蛇形可视化图 -->
-</td>
-
-<!-- 右侧：最近忙的事情 -->
-<td valign="top" width="50%">
-
-#### 👉 最近忙的事情  <!-- 事情链接 -->
-- [数字中国创新大赛](https://www.szzg.gov.cn/2025/cxds/)
-- [SpaCE25中文语义竞赛](https://github.com/PKU-SpaCE/SpaCE2025)
-- [大模型Badcase挑战赛](https://competitions.zhipuai.cn/match)
-- ...
-
-
-
 <!-- 
   技术说明：
   1. 使用GitHub Flavored Markdown语法
